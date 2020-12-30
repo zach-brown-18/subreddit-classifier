@@ -1,0 +1,5 @@
+How does additional data increase nlp models' accuracy?
+
+How does bootstrapping additional data compare to adding new data? - Not enough time to evaluate this. Consider adding this step in future development of this demonstration.
+
+Look at Logistic Regression, Naive Bayes.
